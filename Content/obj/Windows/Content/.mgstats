@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/aMouse.png","C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/bin/Windows/Content/aMouse.xnb","TextureProcessor","Texture2DContent",467,1109,0.112028
+"C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/gen.spritefont","C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/bin/Windows/Content/gen.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.1480334
+"C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/goal.png","C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/bin/Windows/Content/goal.xnb","TextureProcessor","Texture2DContent",159,4181,0.0060023
+"C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/mouse.png","C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/bin/Windows/Content/mouse.xnb","TextureProcessor","Texture2DContent",460,1109,0.0060022
+"C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/tutorBox.png","C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/bin/Windows/Content/tutorBox.xnb","TextureProcessor","Texture2DContent",40974,230485,0.1393456
+"C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/Wall.png","C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/bin/Windows/Content/Wall.xnb","TextureProcessor","Texture2DContent",139,12085,0.1130257
+"C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/WallH.png","C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/bin/Windows/Content/WallH.xnb","TextureProcessor","Texture2DContent",166,6085,0.1150255

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/aMouse.png</File>
+    <File>C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/gen.spritefont</File>
+    <File>C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/goal.png</File>
+    <File>C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/mouse.png</File>
+    <File>C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/tutorBox.png</File>
+    <File>C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/Wall.png</File>
+    <File>C:/Users/Steven/source/repos/MazeSolverAI/MazeSolverAI/Content/WallH.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
